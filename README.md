@@ -1,10 +1,10 @@
-Here is the **README.md in plain text format** (no markdown decorations, ready for simple environments):
+
 
 ---
 
-TURING MACHINE VISUAL SIMULATOR (PyQt6)
+TURING MACHINE VISUAL SIMULATOR 
 
-This project is a desktop application developed in Python using PyQt6 that allows users to design, validate, and execute Turing Machine programs in an interactive and visual way.
+This project contains both desktop application developed in Python using PyQt6 and a Android-based mobile app that allows users to design, validate, and execute Turing Machine programs in an interactive and visual way.
 
 ---
 
@@ -187,4 +187,3 @@ NOTES
 
 ---
 
-If you want, I can also generate a shorter version, a student handout, or a version formatted for documentation systems like Doxygen or Sphinx.
