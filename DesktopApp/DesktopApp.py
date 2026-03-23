@@ -9,7 +9,6 @@ The application allows users to:
 - Visualize the tape and head movement
 - Highlight executed instructions
 
-Special Thanks to: Ordoñez Cruz Osiel Alejandro, Ortega Lujano Humberto Erubiel, Ramirez Alberto Liliana, Romero Hernández Lorena Marisol, Saldaña Martı́nez Kency Marisol, Zavala López César
 """
 
 
