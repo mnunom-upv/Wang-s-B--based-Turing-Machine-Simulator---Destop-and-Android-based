@@ -146,7 +146,7 @@ FILE OPERATIONS
 
 ---
 
-REQUIREMENTS
+REQUIREMENTS FOR DESKTOP APP:
 
 * Python 3.x
 * PyQt6
@@ -155,6 +155,9 @@ Install dependencies:
 
 pip install PyQt6
 
+
+REQUIREMENTS FOR MOBILE APP:
+* Androd Studio (the most recent version)
 ---
 
 RUN THE APPLICATION
